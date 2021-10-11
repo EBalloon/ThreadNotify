@@ -10,3 +10,6 @@ This function was registered by PsSetCreateThreadNotifyRoutine.
 
 
 I don't know if this will be detected in the most decent Anti-Cheats like EAC, BE, VANGUARD, because it's in .text. 
+
+
+# Load Driver with kdmapper
