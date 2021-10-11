@@ -1,4 +1,4 @@
-#POC-Resgister-Callback
+# POC-Resgister-Callback
 
 
 Hooks the CiThreadNotification function in mmcss.sys. 
