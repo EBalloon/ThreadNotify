@@ -1,4 +1,4 @@
-# POC-Resgister-Callback
+# POC-Resgister-Callback Kernel
 
 
 Hooks the CiThreadNotification function in mmcss.sys.
